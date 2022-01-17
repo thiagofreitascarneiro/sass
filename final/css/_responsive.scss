@@ -51,10 +51,8 @@ html {
         width: 100vw;
         height: 100vh;
 
-        background-color: #7159c1;
-        
+        background-color: $primary-color;    
         z-index: 10;
-
         display: flex;
         justify-content: center;
         align-items: center;
